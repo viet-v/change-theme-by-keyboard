@@ -1,0 +1,8 @@
+{
+  "name": "js-lesson06-practice-keydown-change-events",
+  "version": "1.0.0",
+  "description": "Change theme on key press. Change text on selecting options.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
